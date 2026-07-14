@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Base Text style để tránh lỗi style/Text not found -->
+    <style name="Text" parent="">
+        <item name="android:textColor">@color/text_white</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+
+    <style name="Text.NickherCore" parent="Text">
+        <item name="android:textColor">@color/text_white</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+
+    <style name="Text.NickherCore.Title" parent="Text.NickherCore">
+        <item name="android:textColor">@color/text_white</item>
+        <item name="android:textSize">24sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text.NickherCore.SectionTitle" parent="Text.NickherCore">
+        <item name="android:textColor">@color/text_white</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text.NickherCore.TeamName" parent="Text.NickherCore">
+        <item name="android:textColor">@color/text_white</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text.NickherCore.Score" parent="Text.NickherCore">
+        <item name="android:textColor">@color/text_white</item>
+        <item name="android:textSize">26sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text.NickherCore.Body" parent="Text.NickherCore">
+        <item name="android:textColor">@color/text_secondary</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+
+    <style name="Text.NickherCore.Caption" parent="Text.NickherCore">
+        <item name="android:textColor">@color/text_gray</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+
+    <!-- Base Shape style để tránh lỗi ShapeAppearance nếu có -->
+    <style name="ShapeAppearance" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">16dp</item>
+    </style>
+
+    <style name="ShapeAppearance.NickherCore" parent="ShapeAppearance">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">16dp</item>
+    </style>
+
+    <style name="ShapeAppearance.NickherCore.Small" parent="ShapeAppearance.NickherCore">
+        <item name="cornerSize">10dp</item>
+    </style>
+
+    <style name="ShapeAppearance.NickherCore.Medium" parent="ShapeAppearance.NickherCore">
+        <item name="cornerSize">16dp</item>
+    </style>
+
+    <style name="ShapeAppearance.NickherCore.Large" parent="ShapeAppearance.NickherCore">
+        <item name="cornerSize">24dp</item>
+    </style>
+
+</resources>

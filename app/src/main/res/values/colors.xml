@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="background">#07111F</color>
+    <color name="background_dark">#040A12</color>
+    <color name="surface">#0E1B2E</color>
+    <color name="surface_high">#16263D</color>
+    <color name="card_bg">#102033</color>
+    <color name="card_background">#102033</color>
+
+    <color name="primary">#16C47F</color>
+    <color name="primary_dark">#0E8F5B</color>
+    <color name="primary_green">#16C47F</color>
+    <color name="football_green">#16C47F</color>
+    <color name="green">#16C47F</color>
+
+    <color name="live">#FF3B30</color>
+    <color name="live_green">#16C47F</color>
+    <color name="danger">#EF4444</color>
+    <color name="warning">#FFC107</color>
+    <color name="success">#16C47F</color>
+    <color name="info">#3B82F6</color>
+    <color name="blue">#3B82F6</color>
+    <color name="gold">#F59E0B</color>
+    <color name="accent">#F59E0B</color>
+
+    <color name="text_white">#FFFFFF</color>
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#D1D9E6</color>
+    <color name="text_gray">#A9B4C2</color>
+    <color name="text_hint">#7D8DA3</color>
+    <color name="text_black">#0F172A</color>
+    <color name="text_dark">#0F172A</color>
+
+    <color name="divider">#22324A</color>
+    <color name="border">#30445F</color>
+    <color name="card_stroke">#22324A</color>
+
+    <color name="button_primary">#16C47F</color>
+    <color name="button_secondary">#16263D</color>
+    <color name="input_background">#16263D</color>
+    <color name="input_bg">#16263D</color>
+
+    <color name="nc_background">#07111F</color>
+    <color name="nc_background_dark">#040A12</color>
+    <color name="nc_surface">#0E1B2E</color>
+    <color name="nc_card">#102033</color>
+    <color name="nc_green">#16C47F</color>
+    <color name="nc_green_dark">#0E8F5B</color>
+    <color name="nc_gold">#F59E0B</color>
+    <color name="nc_text_primary">#FFFFFF</color>
+    <color name="nc_text_secondary">#D1D9E6</color>
+    <color name="nc_text_hint">#7D8DA3</color>
+    <color name="nc_text_dark">#0F172A</color>
+    <color name="nc_divider">#22324A</color>
+
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+
+</resources>
